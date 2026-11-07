@@ -1,0 +1,11 @@
+{
+  "name": "turath-ts-abjad-hisab-jummal",
+  "version": "1.0.0",
+  "description": "Mashriqi & Maghribi Abjad Numeral & Chronogram (Hisab Al-Jummal) Calculator (حاسبة حساب الجُمّل المشرقي والمغربي والتأريخ الشعري)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
